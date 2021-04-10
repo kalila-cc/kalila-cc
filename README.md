@@ -188,7 +188,7 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
   
 ### [手机浏览器控制台 (vConsole)]( https://greasyfork.org/zh-CN/scripts/419098-vconsole )
 
-- 该代码可在移动端手机浏览器中插入 vConsole 从而调用控制台，使用 via 浏览器进入该页面可添加脚本
+- 在移动端手机浏览器中插入 vConsole 从而调用控制台，使用 via 浏览器进入该页面可添加脚本
 
 ### [UOOC答案测试器 (UOOC Answer Tester)]( https://greasyfork.org/zh-CN/scripts/419427-uooc-answer-tester )
 
