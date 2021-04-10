@@ -17,7 +17,7 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
   - [CSDN 阅读助手 (CSDN Reading Assistant)](#csdn-阅读助手-csdn-reading-assistant)
   - [UOOC优课联盟助手 (UOOC assistant)](#uooc优课联盟助手-uooc-assistant)
   - [便捷深大 (Convenient SZU)](#便捷深大-convenient-szu)
-  - [程序员专属工具 (Coder Utils)](#程序员专属工具-coder-utils)
+  - [程序员工具 (Coder Utils)](#程序员工具-coder-utils)
   - [手机浏览器控制台 (vConsole)](#手机浏览器控制台-vconsole)
   - [UOOC答案测试器 (UOOC Answer Tester)](#uooc答案测试器-uooc-answer-tester)
   - [气泡信息 (Bubble Message)](#气泡信息-bubble-message)
@@ -114,81 +114,13 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
 - 【学业完成查询】页面增加【彩虹地毯】
 - 【宿舍用电查询】页面可自动记忆填写的宿舍信息并可自动显示近 20 天用电记录
 
-### [程序员专属工具 (Coder Utils)]( https://greasyfork.org/zh-CN/scripts/418193-coder-utils )
+### [程序员工具 (Coder Utils)]( https://greasyfork.org/zh-CN/scripts/418193-coder-utils )
 
-- 为程序员专门准备的常用 JavaScript 函数
-- 已有函数
-  - ut
-    - common
-      - 深度拷贝 ($deepcopy)
-      - 下载Blob ($downloadBlob)
-      - 视频控制 ($videoControl)
-    - type
-      - 有效类型判断 ($isValid)
-      - 有效数字判断 ($isValidNumber)
-      - 有效对象判断 ($isObject)
-      - 迭代对象判断 ($isIterable)
-    - obj
-      - 最小项目 ($min)
-      - 最大项目 ($max)
-      - 属性获取 ($prop)
-      - 参数转换 ($parseQuery)
-      - space
-- Number
-  - attribute
-    - 生成区间 ($range)
-  - prototype
-    - 区间判断 ($in)
-    - 格式化 ($format)
-- String
-  - prototype
-    - 字符索引 ($at)
-    - 格式化 ($format)
-    - 文本解码 ($decodeUnicode)
-    - 文本复制 ($copyToClipboard)
-    - 参数转换 ($parseQuery)
-    - 转换拼音 ($toPinyin)
-    - 转换表格 ($toCsv)
-    - 转换图片 ($toBase64Img)
-- Array
-  - attribute
-    - 元素打包 ($zip)
-  - prototype
-    - 元素索引 ($at)
-    - 元素最小值 ($min)
-    - 元素最大值 ($max)
-    - 元素求累加 ($sum)
-    - 元素求平均 ($avg)
-    - 元素映射 ($map)
-    - 元素搜索 ($where)
-    - 元素归并 ($merge)
-    - 元素移除 ($remove)
-    - 元素交换 ($swap)
-    - 元素排序 ($sorted)
-    - 元素打乱 ($shuffled)
-    - 索引重命名 ($reindex)
-- Date
-  - prototype
-    - 格式化 ($format)
-- NodeList
-  - prototype
-    - 元素映射 ($map)
-    - 元素过滤 ($filter)
-- HTMLCollection
-  - prototype
-    - 元素映射 ($map)
-    - 元素过滤 ($filter)
-    - 元素迭代 ($forEach)
-- HTMLElement
-  - attribute
-    - 创建元素 ($mkel)
-  - prototype
-    - 插入元素 ($before)
-    - 监听元素 ($monitor)
+- 为程序员准备的常用 JavaScript 函数。
   
 ### [手机浏览器控制台 (vConsole)]( https://greasyfork.org/zh-CN/scripts/419098-vconsole )
 
-- 在移动端手机浏览器中插入 vConsole 从而调用控制台，使用 via 浏览器进入该页面可添加脚本
+- 在移动端手机浏览器中插入 vConsole 从而调用控制台，使用 via 浏览器进入该页面可添加脚本。
 
 ### [UOOC答案测试器 (UOOC Answer Tester)]( https://greasyfork.org/zh-CN/scripts/419427-uooc-answer-tester )
 
