@@ -104,7 +104,7 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
 
 适配深圳大学内部网多个网页的辅助脚本。
 
-- 内部网首页左上角增加 宿舍用电查询/校园网络续费/登录Dr.com/体育场馆预订/百度文库/下载专区/师资队伍 入口
+- 内部网首页左上角增加 宿舍用电查询/校园网络续费/登录Dr.com/体育场馆预订/百度文库/下载专区/师资队伍 入口以及增加绑定个人信息窗口
 - 免去进入 Blackboard/学业完成查询/办事大厅卡片 的繁琐步骤
 - 自动登录 Blackboard/办事大厅/Dr.com/校园网络续费 等页面
 - 自动填写需要登陆的页面的账号密码
@@ -130,7 +130,7 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
 
 ### [气泡信息 (Bubble Message)]( https://greasyfork.org/zh-CN/scripts/422854-bubble-message )
 
-- 生成悬浮气泡通知，支持自定义 icon 颜色、文字信息、淡入淡出时间、显示时间，气泡宽度。
+- 能够生成悬浮气泡通知，支持自定义：文字信息、默认文字/气泡/icon颜色、默认淡入/淡出/显示时间，默认气泡宽度。
 
 ### [海贼王视频播放控制器 (One Piece Video Control)]( https://greasyfork.org/zh-CN/scripts/422881-one-piece-video-control )
 
