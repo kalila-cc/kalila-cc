@@ -22,6 +22,7 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
   - [UOOC答案测试器 (UOOC Answer Tester)](#uooc答案测试器-uooc-answer-tester)
   - [气泡信息 (Bubble Message)](#气泡信息-bubble-message)
   - [海贼王视频播放控制器 (One Piece Video Control)](#海贼王视频播放控制器-one-piece-video-control)
+  - [视频倍速控制器 (Video Playback Rate Controller)](#视频倍速控制器-video-playback-rate-controller)
 - [扩展](#扩展)
   - [Video Enhancement Control](#video-enhancement-control)
 - [教程](#教程)
@@ -135,6 +136,10 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
 ### [海贼王视频播放控制器 (One Piece Video Control)]( https://greasyfork.org/zh-CN/scripts/422881-one-piece-video-control )
 
 - 增加 [海贼王 (One Piece)]( https://one-piece.cn/anime/ ) 视频播放时的控制快捷键、快速切换上下集快捷键、主页增加当前观看跳转。
+
+### [视频倍速控制器 (Video Playback Rate Controller)]( https://greasyfork.org/zh-CN/scripts/425129-video-playback-rate-controller )
+
+- 为视频添加倍速控制元素，通过 `Shift + @` 可以随时将控制器显示或隐藏。
 
 ## [扩展]( https://github.com/kalila-cc/chrome-extensions )
 
