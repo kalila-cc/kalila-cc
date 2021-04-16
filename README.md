@@ -134,7 +134,7 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
 
 ### [海贼王视频播放控制器 (One Piece Video Control)]( https://greasyfork.org/zh-CN/scripts/422881-one-piece-video-control )
 
-- 增加[海贼王 (One Piece)]( https://one-piece.cn/anime/ ) 视频播放时的控制快捷键、快速切换上下集快捷键、主页增加当前观看跳转。
+- 增加 [海贼王 (One Piece)]( https://one-piece.cn/anime/ ) 视频播放时的控制快捷键、快速切换上下集快捷键、主页增加当前观看跳转。
 
 ## [扩展]( https://github.com/kalila-cc/chrome-extensions )
 
