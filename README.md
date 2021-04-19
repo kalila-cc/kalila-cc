@@ -6,23 +6,21 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
 **如果作者的一些作品对你有用，[欢迎打赏]( https://s1.ax1x.com/2020/11/08/BTeRqe.png )，你的支持是作者维护下去的最大动力！**<br/>
 有任何问题可以联系作者 (WeChat ID: cc3071927804)<br/>
 
-
 - [仓库](#仓库)
   - [SZU-resources](#szu-resources)
 - [软件](#软件)
   - [采昔便签 (CaixiNote)](#采昔便签-caixinote)
   - [易写文件批处理工具 (YixieFileBatchProcessor)](#易写文件批处理工具-yixiefilebatchprocessor)
 - [脚本](#脚本)
-  - [网页绿化去广告工具（包含程序员常用网站）(Web Greening Tool)](#网页绿化去广告工具包含程序员常用网站web-greening-tool)
-  - [CSDN 阅读助手 (CSDN Reading Assistant)](#csdn-阅读助手-csdn-reading-assistant)
-  - [UOOC优课联盟助手 (UOOC assistant)](#uooc优课联盟助手-uooc-assistant)
+  - [广告阻拦 (AD Block)](#广告阻拦-ad-block)
   - [便捷深大 (Convenient SZU)](#便捷深大-convenient-szu)
-  - [程序员工具 (Coder Utils)](#程序员工具-coder-utils)
-  - [手机浏览器控制台 (vConsole)](#手机浏览器控制台-vconsole)
+  - [UOOC优课联盟助手 (UOOC assistant)](#uooc优课联盟助手-uooc-assistant)
   - [UOOC答案测试器 (UOOC Answer Tester)](#uooc答案测试器-uooc-answer-tester)
   - [气泡信息 (Bubble Message)](#气泡信息-bubble-message)
-  - [海贼王视频播放控制器 (One Piece Video Control)](#海贼王视频播放控制器-one-piece-video-control)
+  - [程序员工具 (Coder Utils)](#程序员工具-coder-utils)
   - [视频倍速控制器 (Video Playback Rate Controller)](#视频倍速控制器-video-playback-rate-controller)
+  - [手机浏览器控制台 (vConsole)](#手机浏览器控制台-vconsole)
+  - [海贼王视频播放控制器 (One Piece Video Control)](#海贼王视频播放控制器-one-piece-video-control)
 - [扩展](#扩展)
   - [Video Enhancement Control](#video-enhancement-control)
 - [教程](#教程)
@@ -71,24 +69,23 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
 - **此处列举的脚本需要预先在浏览器安装 Tampermonkey 插件**
 - 若有个性化定制脚本的需要，可以联系作者
 
-### [网页绿化去广告工具（包含程序员常用网站）(Web Greening Tool)]( https://greasyfork.org/zh-CN/scripts/411592-web-greening-tool )
+### [广告阻拦 (AD Block)]( https://greasyfork.org/zh-CN/scripts/425206-ad-block )
 
-- 基础功能
-  - 移除常用页面广告，包括动态广告，主要支持：
-    - 百度搜索、百度知道、百度翻译
-    - 知乎、哔哩哔哩、樱花动漫
-    - C语言中文网、廖雪峰的官方网站、W3school
-    - CSDN、简书、博客园、脚本之家、IT屋
-    - OSCHINA.NET在线工具、jsons在线工具
-- 特色功能
-  - CSDN/简书详情页增加简洁模式
-  - Ubuntu Pastebin 页面增加仅显示流行编程语言
+- 移除常见网站广告，优化百度系网站使用体验，优化程序员常用网站使用体验。
 
-### [CSDN 阅读助手 (CSDN Reading Assistant)]( https://greasyfork.org/zh-CN/scripts/424654-csdn-reading-assistant )
+### [便捷深大 (Convenient SZU)]( https://greasyfork.org/zh-CN/scripts/414662-convenient-szu )
 
-- 阻止未登录状态下因滚动弹出的二维码登录窗口
-- 增加简洁模式，支持关闭，默认开启
-- 增加无视登录状态的代码复制功能
+- 适配深圳大学内部网多个网页的辅助脚本。
+
+- 内部网首页左上角增加 `宿舍用电查询/校园网络续费/登录Dr.com/体育场馆预订/百度文库/下载专区/师资队伍` 入口以及增加绑定个人信息窗口
+- 免去进入 `Blackboard/学业完成查询/办事大厅卡片` 的繁琐步骤
+- 自动登录 `统一身份认证/Dr.com/办事大厅/Blackboard/校园网络续费` 等页面
+- 自动填写需要登陆的页面的账号密码
+- 【办事大厅】页面增加【修读课程统计下载】
+- 【网上评教】页面增加【一键五星+评价】
+- 【成长记录】页面增加【学期专业排名】
+- 【学业完成查询】页面增加【彩虹地毯】
+- 【宿舍用电查询】页面可自动记忆填写的宿舍信息并可自动显示近 20 天用电记录
 
 ### [UOOC优课联盟助手 (UOOC assistant)]( https://greasyfork.org/zh-CN/scripts/413268-uooc-assistant )
 
@@ -102,28 +99,6 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
 - 键盘左右方向键可以控制视频快进/快退，上下方向键可以控制音量增大/减小，空格键可以控制播放/暂停
 - 如果视频标题下面出现 `倍速/静音/播放/连播` 选项说明脚本正常启动运行
 
-### [便捷深大 (Convenient SZU)]( https://greasyfork.org/zh-CN/scripts/414662-convenient-szu )
-
-适配深圳大学内部网多个网页的辅助脚本。
-
-- 内部网首页左上角增加 `宿舍用电查询/校园网络续费/登录Dr.com/体育场馆预订/百度文库/下载专区/师资队伍` 入口以及增加绑定个人信息窗口
-- 免去进入 `Blackboard/学业完成查询/办事大厅卡片` 的繁琐步骤
-- 自动登录 `统一身份认证/Dr.com/办事大厅/Blackboard/校园网络续费` 等页面
-- 自动填写需要登陆的页面的账号密码
-- 【办事大厅】页面增加【修读课程统计下载】
-- 【网上评教】页面增加【一键五星+评价】
-- 【成长记录】页面增加【学期专业排名】
-- 【学业完成查询】页面增加【彩虹地毯】
-- 【宿舍用电查询】页面可自动记忆填写的宿舍信息并可自动显示近 20 天用电记录
-
-### [程序员工具 (Coder Utils)]( https://greasyfork.org/zh-CN/scripts/418193-coder-utils )
-
-- 为程序员准备的常用 JavaScript 函数。
-  
-### [手机浏览器控制台 (vConsole)]( https://greasyfork.org/zh-CN/scripts/419098-vconsole )
-
-- 在移动端手机浏览器中插入 vConsole 从而调用控制台，使用 via 浏览器进入该页面可添加脚本。
-
 ### [UOOC答案测试器 (UOOC Answer Tester)]( https://greasyfork.org/zh-CN/scripts/419427-uooc-answer-tester )
 
 - 此脚本是通过试错得到 UOOC 测试题的单选题答案，请按照指示进行操作，请注意，此脚本并不能直接得到单选题的正确答案。
@@ -134,13 +109,21 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
 
 - 能够生成悬浮气泡通知，支持自定义：文字信息、默认文字/气泡/icon颜色、默认淡入/淡出/显示时间，默认气泡宽度。
 
-### [海贼王视频播放控制器 (One Piece Video Control)]( https://greasyfork.org/zh-CN/scripts/422881-one-piece-video-control )
+### [程序员工具 (Coder Utils)]( https://greasyfork.org/zh-CN/scripts/418193-coder-utils )
 
-- 增加 [海贼王 (One Piece)]( https://one-piece.cn/anime/ ) 视频播放时的控制快捷键、快速切换上下集快捷键、主页增加当前观看跳转。
+- 为程序员准备的常用 JavaScript 函数。
 
 ### [视频倍速控制器 (Video Playback Rate Controller)]( https://greasyfork.org/zh-CN/scripts/425129-video-playback-rate-controller )
 
 - 为视频添加倍速控制元素，通过 `Shift + @` 可以随时将控制器显示或隐藏。
+
+### [手机浏览器控制台 (vConsole)]( https://greasyfork.org/zh-CN/scripts/419098-vconsole )
+
+- 在移动端手机浏览器中插入 vConsole 从而调用控制台，使用 via 浏览器进入该页面可添加脚本。
+
+### [海贼王视频播放控制器 (One Piece Video Control)]( https://greasyfork.org/zh-CN/scripts/422881-one-piece-video-control )
+
+- 增加 [海贼王 (One Piece)]( https://one-piece.cn/anime/ ) 视频播放时的控制快捷键、快速切换上下集快捷键、主页增加当前观看跳转。
 
 ## [扩展]( https://github.com/kalila-cc/chrome-extensions )
 
