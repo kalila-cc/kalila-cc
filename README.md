@@ -133,7 +133,7 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
 
 ## [教程]( https://github.com/kalila-cc/tutorial )
 
-### [访问 GitHub 配置教程]( https://blog.csdn.net/qq_42918883/article/details/115773204 )
+### [访问 GitHub 配置教程]( https://zhuanlan.zhihu.com/p/366436588 )
 
 请注意，该教程仅适用于 Windows 系统。
 
