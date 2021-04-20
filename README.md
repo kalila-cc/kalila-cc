@@ -137,7 +137,7 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
 
 请注意，该教程仅适用于 Windows 系统。
 
-### [油猴插件安装教程（免翻墙）]( https://blog.csdn.net/qq_42918883/article/details/115610486 )
+### [油猴插件安装教程（免翻墙）]( https://zhuanlan.zhihu.com/p/366441874 )
 
 由于 Greasy Fork 的脚本需要安装油猴（即 Tampermonkey ，一个用于脚本管理的插件）后才能使用，而正规的油猴安装方式又需要科学上网（即俗称的翻墙），而许多朋友不太会科学上网，故写了一个简单的油猴插件安装教程。<br/>
 另外，推荐尽可能使用 Chrome 浏览器，因为脚本通常都会适配 Chrome 浏览器，而其他浏览器则不一定能够正常运行脚本。<br/>
