@@ -86,6 +86,7 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
 - 【成长记录】页面增加【学期专业排名】
 - 【学业完成查询】页面增加【彩虹地毯】
 - 【宿舍用电查询】页面可自动记忆填写的宿舍信息并可自动显示近 20 天用电记录
+- 【公文通】页面可自动记忆选择和填写的信息并增加 `只看学院学部` 选项
 
 ### [UOOC优课联盟助手 (UOOC assistant)]( https://greasyfork.org/zh-CN/scripts/413268-uooc-assistant )
 
