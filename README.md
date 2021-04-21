@@ -25,7 +25,7 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
   - [Video Enhancement Control](#video-enhancement-control)
 - [教程](#教程)
   - [访问 GitHub 配置教程](#访问-github-配置教程)
-  - [油猴插件安装教程（免翻墙）](#油猴插件安装教程免翻墙)
+  - [油猴插件安装教程](#油猴插件安装教程)
   - [傻瓜式配置 C/C++/VSCode (for Windows 10)](#傻瓜式配置-ccvscode-for-windows-10)
 - [其他](#其他)
 - [推荐](#推荐)
@@ -136,17 +136,17 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
 
 ### [访问 GitHub 配置教程]( https://zhuanlan.zhihu.com/p/366436588 )
 
-请注意，该教程仅适用于 Windows 系统。
+- 请注意，该教程仅适用于 Windows 系统。
 
-### [油猴插件安装教程（免翻墙）]( https://zhuanlan.zhihu.com/p/366441874 )
+### [油猴插件安装教程]( https://zhuanlan.zhihu.com/p/366441874 )
 
-由于 Greasy Fork 的脚本需要安装油猴（即 Tampermonkey ，一个用于脚本管理的插件）后才能使用，而正规的油猴安装方式又需要科学上网（即俗称的翻墙），而许多朋友不太会科学上网，故写了一个简单的油猴插件安装教程。<br/>
-另外，推荐尽可能使用 Chrome 浏览器，因为脚本通常都会适配 Chrome 浏览器，而其他浏览器则不一定能够正常运行脚本。<br/>
+- 由于 Greasy Fork 的脚本需要安装油猴（即 Tampermonkey ，一个用于脚本管理的插件）后才能使用，而正规的油猴安装方式因为大家都懂的原因而无法正常安装，因此写了一个简单的油猴插件安装教程。
+- 另外，推荐尽可能使用 Chrome 浏览器，因为脚本通常都会适配 Chrome 浏览器，而其他浏览器则不一定能够正常运行脚本。
 
 ### [傻瓜式配置 C/C++/VSCode (for Windows 10)]( https://github.com/kalila-cc/tutorial/tree/master/VSCode-configuraton-tuterial )
 
-傻瓜式配置`VSCode`的`C/C++`环境 (for Windows 10)<br/>
-由于配置`VSCode`的过程较为麻烦，为了快速配置`C/C++`环境，特地写了一个傻瓜式配置`VSCode`的`C/C++`编译运行环境的教程<br/>
+- 傻瓜式配置`VSCode`的`C/C++`环境 (for Windows 10)<br/>
+- 由于配置`VSCode`的过程较为麻烦，为了快速配置`C/C++`环境，特地写了一个傻瓜式配置`VSCode`的`C/C++`编译运行环境的教程<br/>
 
 ## 其他
 
