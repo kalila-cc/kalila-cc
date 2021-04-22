@@ -71,7 +71,7 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
 
 ### [广告阻拦 (AD Block)]( https://greasyfork.org/zh-CN/scripts/425206-ad-block )
 
-- 移除常见网站广告，优化百度系网站使用体验，优化程序员常用网站使用体验。
+- 移除常见网站广告，优化百度系网站使用体验，优化程序员常用网站使用体验，增加快捷键开启辅助功能。
 
 ### [便捷深大 (Convenient SZU)]( https://greasyfork.org/zh-CN/scripts/414662-convenient-szu )
 
