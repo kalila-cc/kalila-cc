@@ -98,6 +98,7 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
 - 自动回答视频中途弹出问题
 - 可复制已提交测验题目及答案
 - 键盘左右方向键可以控制视频快进/快退，上下方向键可以控制音量增大/减小，空格键可以控制播放/暂停
+- 停止连播支持提醒
 - 如果视频标题下面出现 `倍速/静音/播放/连播` 选项说明脚本正常启动运行
 
 ### [UOOC答案测试器 (UOOC Answer Tester)]( https://greasyfork.org/zh-CN/scripts/419427-uooc-answer-tester )
