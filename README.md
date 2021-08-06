@@ -184,7 +184,7 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
 - 题库：[PAT](https://www.patest.cn/practice)、[洛谷](https://www.luogu.com.cn/problem/list)、[力扣](https://leetcode-cn.com/problemset/all/)
 - 协作：[腾讯文档](https://docs.qq.com/desktop/)、[腾讯工蜂](https://git.code.tencent.com/)、[飞书](https://www.feishu.cn/)
 - 其他：[Unicode](https://www.compart.com/en/unicode/)、[站长工具](https://seo.chinaz.com/)、[编码查看转换工具](http://www.mytju.com/classcode/tools.asp)、[DNS查询](https://myssl.com/dns_check.html)
-- 校招：[腾讯校园招聘](https://join.qq.com/)、[阿里巴巴集团招聘官网](https://talent.alibaba.com/campus/)、[字节跳动校园招聘](https://jobs.bytedance.com/campus)、[百度校园招聘](https://talent.baidu.com/external/baidu/campus.html)、[网易校园招聘](https://campus.163.com/app/index)、[美团招聘官网](https://campus.meituan.com/)、[智联招聘](https://xiaoyuan.zhaopin.com/)
+- 校招：[腾讯校园招聘](https://join.qq.com/)、[阿里巴巴集团招聘官网](https://talent.alibaba.com/campus/)、[字节跳动校园招聘](https://jobs.bytedance.com/campus)、[百度校园招聘](https://talent.baidu.com/external/baidu/campus.html)、[华为校园招聘](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html)、[网易校园招聘](https://campus.163.com/app/index)、[美团招聘官网](https://campus.meituan.com/)、[智联招聘](https://xiaoyuan.zhaopin.com/)
 
 ### 学习
 
