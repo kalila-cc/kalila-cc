@@ -146,6 +146,7 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
   - `JavaScript`: [The Modern JavaScript Tutorial](https://javascript.info/)、[JavaScript|MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - `HTML/CSS`：[W3school](https://www.w3school.com.cn/)、[菜鸟教程](https://www.runoob.com/)
   - `MATLAB`：[W3school](https://www.w3cschool.cn/matlab/)
+  - `SQL`：[SQL教程](https://www.w3school.com.cn/sql/index.asp)、[SQLZOO](https://sqlzoo.net/)
   - `Git`: [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
   - `Linux`：[Bash脚本教程](https://wangdoc.com/bash/index.html)、[Linux命令大全(手册)](https://www.linuxcool.com/)
   - `WeChat Miniprogram`：[微信开放文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
