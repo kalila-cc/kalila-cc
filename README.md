@@ -143,10 +143,11 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
 
 - 教程
   - `C/C++`: [C语言中文网](http://c.biancheng.net/)、[菜鸟教程](https://www.runoob.com/)
-  - `JavaScript`: [The Modern JavaScript Tutorial](https://javascript.info/)、[JavaScript|MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - `HTML/CSS`：[W3school](https://www.w3school.com.cn/)、[菜鸟教程](https://www.runoob.com/)
-  - `MATLAB`：[W3school](https://www.w3cschool.cn/matlab/)
+  - `JavaScript`: [The Modern JavaScript Tutorial](https://javascript.info/)、[JavaScript|MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - `SQL`：[SQL教程](https://www.w3school.com.cn/sql/index.asp)、[SQLZOO](https://sqlzoo.net/)
+  - `MATLAB`：[W3school](https://www.w3cschool.cn/matlab/)
+  - `Android`：[Android开发者指南](https://developer.android.com/guide)、[Flutter](https://flutter.cn/)、[React Native](https://www.react-native.cn/)
   - `Git`: [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
   - `Linux`：[Bash脚本教程](https://wangdoc.com/bash/index.html)、[Linux命令大全(手册)](https://www.linuxcool.com/)
   - `WeChat Miniprogram`：[微信开放文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
@@ -191,13 +192,13 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
 
 - 问答：[百度](https://www.baidu.com/)、[知乎](https://www.zhihu.com/)、[哔哩哔哩](https://www.bilibili.com/)
 - 翻译：[Google 翻译](https://translate.google.cn/)、[有道翻译](http://fanyi.youdao.com/)、[百度翻译](https://fanyi.baidu.com/)
-- 思维导图：[TAPD](https://www.tapd.cn/)
+- 绘图：[幕布](https://mubu.com/home)、[Desmos](https://www.desmos.com/calculator?lang=zh-CN)
 
 ### 设计
 
 - 图标：[iconfont](https://www.iconfont.cn/)
 - 色彩：[520设计网](https://www.sj520.cn/)、[网页渐变色](https://www.sj520.cn/tools/jianbian3/)、[SpyColor](https://zh.spycolor.com/)、[Color Claim](https://vanschneider.com/colors)、[ColorHexa](https://www.colorhexa.com/)、[uiGradients](https://uigradients.com/)、[RGB配色表](http://www.wahart.com.hk/rgb.htm)、[RGB颜色查询](https://www.fontke.com/tool/rgb)
-- 字体：[艺术字体转换器](http://www.akuziti.com/)
+- 字体：[艺术字体转换器](http://www.akuziti.com/)、[Text to ASCII Generator](http://patorjk.com/software/taag/)
 - 曲线：[cubic-bezier](https://cubic-bezier.com/)
 - 软件：[CorelDRAW](https://www.coreldraw.com/cn/)、[Adobe Illustrator](https://www.adobe.com/cn/products/illustrator.html)、[墨刀](https://modao.cc/)
 
@@ -221,6 +222,7 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
 - 视频
   - 动漫：[樱花动漫](http://www.imomoe.la/)、[233动漫网](https://www.dm233.cc/)、[樱花风车动漫网](https://www.8666.tv/index.php)
   - 影视：[天狼影视](https://m.ttll.tv/)、[电影天堂](https://www.dytt8.net/index.htm)
+  - 提取：[Twitter Video Downloader](https://twittervideodownloader.com/)
 - 网络
   - 测速：[Speedtest](https://www.speedtest.net/)、[测速网](https://www.speedtest.cn/)
 
