@@ -148,10 +148,10 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
   - `SQL`：[SQL教程](https://www.w3school.com.cn/sql/index.asp)、[SQLZOO](https://sqlzoo.net/)
   - `MATLAB`：[W3school](https://www.w3cschool.cn/matlab/)
   - `Android`：[Android开发者指南](https://developer.android.com/guide)、[Flutter](https://flutter.cn/)、[React Native](https://www.react-native.cn/)
-  - `Git`: [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
+  - `Git`: [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)、[Learn Git Branching](https://learngitbranching.js.org/?locale=zh_CN)
   - `Linux`：[Bash脚本教程](https://wangdoc.com/bash/index.html)、[Linux命令大全(手册)](https://www.linuxcool.com/)
   - `WeChat Miniprogram`：[微信开放文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
-  - `Front/Back End`：[Vue.js](https://cn.vuejs.org/v2/guide/)、[React](https://react.docschina.org/docs/getting-started.html)、[Flask](https://dormousehole.readthedocs.io/en/latest/quickstart.html)、[GitHub Pages](https://docs.github.com/cn/pages)
+  - `Front/Back End`：[React](https://react.docschina.org/docs/getting-started.html)、[Vue.js](https://cn.vuejs.org/v2/guide/)、[webpack](https://webpack.docschina.org/)、[Flask](https://dormousehole.readthedocs.io/en/latest/quickstart.html)、[GitHub Pages](https://docs.github.com/cn/pages)
   - `Chrome Extensions`: [Extensions - Chrome Developers](https://developer.chrome.com/docs/extensions/)
   - `Machine Learning`: [Dive into Deep Learning](http://d2l.ai/)、[动手学深度学习](https://zh-v2.d2l.ai/)
   - `UI`：[View UI](http://v1.iviewui.com/)、[Element UI](https://element.eleme.cn/#/zh-CN)
@@ -192,7 +192,8 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
 
 - 问答：[百度](https://www.baidu.com/)、[知乎](https://www.zhihu.com/)、[哔哩哔哩](https://www.bilibili.com/)
 - 翻译：[Google 翻译](https://translate.google.cn/)、[有道翻译](http://fanyi.youdao.com/)、[百度翻译](https://fanyi.baidu.com/)
-- 绘图：[幕布](https://mubu.com/home)、[Desmos](https://www.desmos.com/calculator?lang=zh-CN)
+- 绘图：[幕布](https://mubu.com/home)
+- 数学：[Desmos](https://www.desmos.com/calculator?lang=zh-CN)、[WolframAlpha](https://www.wolframalpha.com/)、[在线LaTex公式编辑器](https://www.latexlive.com/)
 
 ### 设计
 
