@@ -2,7 +2,6 @@
 
 This is my home page in GitHub, and I will keep updating my code works here.<br/>
 这里是我的 GitHub 个人主页，我会在此持续更新我的代码项目，欢迎 **Star**。<br/>
-**如果作者的一些作品对你有用，[欢迎打赏](https://s1.ax1x.com/2020/11/08/BTeRqe.png)，你的支持是作者维护下去的最大动力！**<br/>
 有任何问题可以联系作者 (WeChat ID: cc3071927804)<br/>
 
 - [仓库](#仓库)
