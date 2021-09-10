@@ -1,3 +1,6 @@
+![kalila-cc's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalila-cc&theme=vue&show_icons=true&hide=prs,issues,contribs&line_height=40)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalila-cc&layout=compact)](https://github.com/kalila-cc/)
+
 **HOME**
 
 This is my home page in GitHub, and I will keep updating my code works here.<br/>
