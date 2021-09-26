@@ -14,6 +14,7 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
   - [易写文件批处理工具 (YixieFileBatchProcessor)](#易写文件批处理工具-yixiefilebatchprocessor)
 - [脚本](#脚本)
   - [广告阻拦 (AD Block)](#广告阻拦-ad-block)
+  - [力扣助手 (LeetCode Assistant)](#力扣助手-leetcode-assistant)
   - [便捷深大 (Convenient SZU)](#便捷深大-convenient-szu)
   - [UOOC优课联盟助手 (UOOC assistant)](#uooc优课联盟助手-uooc-assistant)
   - [UOOC答案测试器 (UOOC Answer Tester)](#uooc答案测试器-uooc-answer-tester)
@@ -75,9 +76,28 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
 
 - 移除常见网站广告，优化百度系网站使用体验，优化程序员常用网站使用体验，增加快捷键开启辅助功能。
 
+### [力扣助手 (LeetCode Assistant)](https://greasyfork.org/zh-CN/scripts/432207-leetcode-assistant)
+
+为力扣页面增加辅助功能。
+
+- 首页题库页面
+  - 增加**简洁模式**功能，自动隐藏置顶的 "推荐" 和 "学习计划" ，以及右侧的 "精选题单" 和 "热门企业" ，导航栏添加隐藏开关，允许自定义是否隐藏
+  - 增加**隐藏已解决**功能，一键隐藏已解决问题，支持取消隐藏
+- 题目页面
+  - 导航栏
+    - 增加**自动调节视图**功能，浏览题目描述时自动调整左侧长度占比 `0.618`，浏览题解时自动调整右侧长度占比 `0.618` ，支持取消自动调整
+  - 编辑窗口
+    - 增加**复制结构**功能，能够直接复制官方提供的结构类代码[1]，如 `ListNode/TreeNode` 等，避免了手动清除注释的麻烦
+  - 题目描述
+    - 在每个示例末尾添加**复制示例输入**功能，支持直接复制示例输入为可被语言直接解析的声明语句[2]，避免了手动创建示例输入的麻烦
+  - 提交记录
+    - 增加**代码复制**功能，无需点击进入提交记录详情页即可实现复制提交代码，点击单条提交记录的 "语言" 项即可复制该条提交的代码，已通过蓝色高亮文字
+    - 增加**复制测试输入**功能，提交出现错误时，点击测试输入文本，直接复制测试输入为可被语言直接解析的声明语句[3]
+    - 增加**高亮最优提交**功能，自动高亮最优提交记录
+
 ### [便捷深大 (Convenient SZU)](https://greasyfork.org/zh-CN/scripts/414662-convenient-szu)
 
-- 适配深圳大学内部网多个网页的辅助脚本。
+适配深圳大学内部网多个网页的辅助脚本。
 
 - 内部网首页左上角增加 `宿舍用电查询/校园网络续费/登录Dr.com/体育场馆预订/百度文库/下载专区/师资队伍` 入口以及增加绑定个人信息窗口
 - 免去进入 `Blackboard/学业完成查询/办事大厅卡片` 的繁琐步骤
@@ -145,13 +165,14 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
 
 - 教程
   - `C/C++`: [C语言中文网](http://c.biancheng.net/)、[菜鸟教程](https://www.runoob.com/)
+  - `Objective-C`: [Objective-C教程](https://www.yiibai.com/objective_c)
   - `HTML/CSS`：[W3school](https://www.w3school.com.cn/)、[菜鸟教程](https://www.runoob.com/)
   - `JavaScript`: [The Modern JavaScript Tutorial](https://javascript.info/)、[JavaScript|MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - `SQL`：[SQL教程](https://www.w3school.com.cn/sql/index.asp)、[SQLZOO](https://sqlzoo.net/)
   - `MATLAB`：[W3school](https://www.w3cschool.cn/matlab/)
   - `Android`：[Android开发者指南](https://developer.android.com/guide)、[Flutter](https://flutter.cn/)、[React Native](https://www.react-native.cn/)
   - `Git`: [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)、[Learn Git Branching](https://learngitbranching.js.org/?locale=zh_CN)
-  - `Linux`：[Bash脚本教程](https://wangdoc.com/bash/index.html)、[Linux命令大全(手册)](https://www.linuxcool.com/)
+  - `Linux`：[Bash脚本教程](https://wangdoc.com/bash/index.html)、[Linux命令大全](https://www.runoob.com/linux/linux-command-manual.html)、[Linux命令大全(手册)](https://www.linuxcool.com/)
   - `WeChat Miniprogram`：[微信开放文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
   - `Front/Back End`：[React](https://react.docschina.org/docs/getting-started.html)、[Vue.js](https://cn.vuejs.org/v2/guide/)、[webpack](https://webpack.docschina.org/)、[Flask](https://dormousehole.readthedocs.io/en/latest/quickstart.html)、[GitHub Pages](https://docs.github.com/cn/pages)
   - `Chrome Extensions`: [Extensions - Chrome Developers](https://developer.chrome.com/docs/extensions/)
@@ -159,9 +180,10 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
   - `UI`：[View UI](http://v1.iviewui.com/)、[Element UI](https://element.eleme.cn/#/zh-CN)
   - `Common`：[freeCodeCamp](https://www.freecodecamp.org/)、[廖雪峰的官方网站](https://www.liaoxuefeng.com/)、[菜鸟教程](https://www.runoob.com/)
 - IDE
-  - `C/C++`：[Dev-C++](https://sourceforge.net/projects/orwelldevcpp/files/latest/download)、[VSCode](https://code.visualstudio.com/)
+  - `C/C++`：[Dev-C++](https://sourceforge.net/projects/orwelldevcpp/files/latest/download)、[VSCode](https://code.visualstudio.com/)、[Clion](https://www.jetbrains.com/clion/download/)
   - `Python`：[Pycharm](https://www.jetbrains.com/pycharm/download/)
   - `Java/Kotlin`: [intelliJ IDEA](https://www.jetbrains.com/idea/download/)
+  - `Web`：[WebStorm](https://www.jetbrains.com/webstorm/download/)
   - `Android`：[Android Studio](http://www.android-studio.org/)
   - 微信小程序：[微信开发者工具](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html)
 - 扩展
@@ -182,20 +204,20 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
   - 可视化：[VisuAlgo](https://visualgo.net/zh)、[Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - 问答：[CSDN](https://www.csdn.net/)、[简书](https://www.jianshu.com/)、[博客园](https://www.cnblogs.com/)、[Stack Overflow](https://stackoverflow.com/)
 - 代码格式化：[C语言代码格式化](http://www.jsons.cn/clanformat/)、[HTML/CSS/JSON/JavaScript/Java/SQL格式化](https://tool.oschina.net/codeformat/json/)
+- 代码转换：[ES6 Console](https://es6console.com/)、[Babel](https://babeljs.io/repl)
 - 代码分享：[Ubuntu Pastebin](https://paste.ubuntu.com/)
 - 代码截图：[Carbon](https://carbon.now.sh/)
-- 在线开发环境：[C语言开发环境](https://clin.icourse163.org/)、[菜鸟工具](https://c.runoob.com/)、[Data Science Workshop](https://dsw-dev.data.aliyun.com/#/)、[Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb)
-- 题库：[PAT](https://www.patest.cn/practice)、[洛谷](https://www.luogu.com.cn/problem/list)、[力扣](https://leetcode-cn.com/problemset/all/)
-- 协作：[腾讯文档](https://docs.qq.com/desktop/)、[腾讯工蜂](https://git.code.tencent.com/)、[飞书](https://www.feishu.cn/)
+- 在线开发环境：[C语言开发环境](https://clin.icourse163.org/)、[菜鸟工具](https://c.runoob.com/)、[Objective-C在线编辑器](http://www.dooccn.com/objective-c/)、[Data Science Workshop](https://dsw-dev.data.aliyun.com/#/)、[Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb)
+- 题库：[PAT](https://www.patest.cn/practice)、[洛谷](https://www.luogu.com.cn/problem/list)、[力扣](https://leetcode-cn.com/problemset/all/)、[牛客网](https://www.nowcoder.com/activity/oj)
+- 工作：[腾讯文档](https://docs.qq.com/desktop/)、[腾讯工蜂](https://git.code.tencent.com/)、[飞书](https://www.feishu.cn/)、[超级简历WonderCV](https://www.wondercv.com/)
 - 其他：[Unicode](https://www.compart.com/en/unicode/)、[站长工具](https://seo.chinaz.com/)、[编码查看转换工具](http://www.mytju.com/classcode/tools.asp)、[DNS查询](https://myssl.com/dns_check.html)
-- 校招：[腾讯校园招聘](https://join.qq.com/)、[阿里巴巴集团招聘官网](https://talent.alibaba.com/campus/)、[字节跳动校园招聘](https://jobs.bytedance.com/campus)、[百度校园招聘](https://talent.baidu.com/external/baidu/campus.html)、[华为校园招聘](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html)、[网易校园招聘](https://campus.163.com/app/index)、[美团招聘官网](https://campus.meituan.com/)、[智联招聘](https://xiaoyuan.zhaopin.com/)
 
 ### 学习
 
 - 问答：[百度](https://www.baidu.com/)、[知乎](https://www.zhihu.com/)、[哔哩哔哩](https://www.bilibili.com/)
 - 翻译：[Google 翻译](https://translate.google.cn/)、[有道翻译](http://fanyi.youdao.com/)、[百度翻译](https://fanyi.baidu.com/)
 - 绘图：[幕布](https://mubu.com/home)
-- 数学：[Desmos](https://www.desmos.com/calculator?lang=zh-CN)、[WolframAlpha](https://www.wolframalpha.com/)、[在线LaTex公式编辑器](https://www.latexlive.com/)
+- 数学：[Desmos](https://www.desmos.com/calculator?lang=zh-CN)、[WolframAlpha](https://www.wolframalpha.com/)、[LaTeX公式编辑器](https://www.latexlive.com/)
 
 ### 设计
 
@@ -208,9 +230,10 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
 ### 其他
 
 - 文件
-  - 解压缩：[360压缩](https://yasuo.360.cn/)
-  - 格式转换：[格式工厂](http://www.pcgeshi.com/)
+  - 文件解压缩：[360压缩](https://yasuo.360.cn/)
+  - 文件格式转换：[格式工厂](http://www.pcgeshi.com/)
   - 文件类型查询：[延伸档名数据库](https://www.filedesc.com/zh/)
+  - 磁盘空间嗅探：[SpaceSniffer](https://www.fosshub.com/SpaceSniffer.html)
 - 图片
   - 图床：[路过图床](https://imgchr.com/)
   - 二维码：[草料二维码](https://cli.im/)
@@ -228,6 +251,8 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
   - 提取：[Twitter Video Downloader](https://twittervideodownloader.com/)
 - 网络
   - 测速：[Speedtest](https://www.speedtest.net/)、[测速网](https://www.speedtest.cn/)
+- 手机
+  - 调节配置：[adb](https://developer.android.com/studio/releases/platform-tools)、[adb文档](https://developer.android.com/studio/command-line/adb)
 
 ## 其他
 
