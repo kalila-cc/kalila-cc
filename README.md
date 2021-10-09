@@ -201,6 +201,7 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
     - `Tampermonkey`：The world's most popular userscript manager.
     - `Dark Reader`：Dark mode for every website. Take care of your eyes, use dark theme for night and daily browsing.
 - 算法
+  - 教程：[OI Wiki](https://oi-wiki.org/)
   - 可视化：[VisuAlgo](https://visualgo.net/zh)、[Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - 问答：[CSDN](https://www.csdn.net/)、[简书](https://www.jianshu.com/)、[博客园](https://www.cnblogs.com/)、[Stack Overflow](https://stackoverflow.com/)
 - 代码格式化：[C语言代码格式化](http://www.jsons.cn/clanformat/)、[HTML/CSS/JSON/JavaScript/Java/SQL格式化](https://tool.oschina.net/codeformat/json/)
